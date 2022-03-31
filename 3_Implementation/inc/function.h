@@ -1,6 +1,6 @@
 /**
  * @file function.h
- * @author Goutami D Honagannavar (you@domain.com)
+ * @author chetan p ganiger (you@domain.com)
  * @brief 
  * @version 0.1
  * @date 2021-09-05
